@@ -3,8 +3,8 @@
 A small collection of custom CSS themes I actually use every day, written for
 [Stylebot](https://stylebot.dev/), the browser extension that injects user CSS into specific sites.
 
-The idea is simple: most "dark mode" extensions invert colours and leave the result unreadable. These
-files are hand-written per site — background, text, borders, links and the site's own accent colour are
+The idea is simple: most "dark mode" extensions invert colors and leave the result unreadable. These
+files are hand-written per site — background, text, borders, links and the site's own accent color are
 chosen so the page stays legible, not just dark.
 
 ## What is here
